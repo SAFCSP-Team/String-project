@@ -33,7 +33,9 @@ Lowercase conversion: hello world
 Capitalized first character: Hello world
 ```
 
-
+### Submission
+- Submit your project by sending the solution file via email.
+  
 ### Qualification to pass
 - The program should correctly identify and display the minimum and maximum characters in the input string.
 - The program should count and display the occurrences of a specific character in the input string.
@@ -42,5 +44,3 @@ Capitalized first character: Hello world
 - The program should convert the input string to lowercase and display the result.
 - The program should capitalize the first character of each word in the input string and display the result.
   
-### Submission
-- Submit your project by sending the solution file via email.
