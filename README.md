@@ -34,10 +34,13 @@ Capitalized first character: Hello world
 ```
 
 
-### Qualification to pass:
+### Qualification to pass
 - The program should correctly identify and display the minimum and maximum characters in the input string.
 - The program should count and display the occurrences of a specific character in the input string.
 - The program should check if the input string starts and ends with a specific substring.
 - The program should sort the characters in the input string in ascending order and display the sorted string.
 - The program should convert the input string to lowercase and display the result.
 - The program should capitalize the first character of each word in the input string and display the result.
+  
+### Submission
+- Submit your project by sending the solution file via email.
