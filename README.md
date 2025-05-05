@@ -30,7 +30,7 @@ Starts with 'Hello': True
 Ends with 'World': True
 Sorted characters:  Wdellhoor
 Lowercase conversion: hello world
-Capitalized first character: Hello world
+Capitalized first character: Hello World
 ```
   
 ### Qualification to pass
